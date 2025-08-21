@@ -18,15 +18,15 @@ This app lets you search for any city and view:\
 
 ### 🌞 Dubai Weather
 
-![Dubai Weather](screenshots/Screenshot-2025-08-21-103607.png)
+![Dubai Weather](screenshots/Screenshot-2025-08-21-103607.png.png)
 
 ### ☁️ London Weather
 
-![London Weather](screenshots/Screenshot-2025-08-21-103643.png)
+![London Weather](screenshots/Screenshot-2025-08-21-103643.png.png)
 
 ### 🌧 Sydney Weather
 
-![Sydney Weather](screenshots/Screenshot-2025-08-21-103825.png)
+![Sydney Weather](screenshots/Screenshot-2025-08-21-103825.png.png)
 
 ---
 
