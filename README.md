@@ -110,3 +110,6 @@ Right-click index.html → "Open with Live Server"
 > settings.
 
 ---
+📖 License This project is licensed under the MIT License – free to use, modify, and distribute. "# mini-weather-app"
+
+
