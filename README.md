@@ -29,6 +29,9 @@ This app lets you search for any city and view:\
 ![Sydney Weather](screenshots/Screenshot-2025-08-21-103825.png.png)
 
 ---
+## 🔗 Live Demo
+https://abdkay.github.io/mini-weather-app/
+---
 
 ## 📦 Features
 
